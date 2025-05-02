@@ -1,16 +1,10 @@
-# extra_credit_flutter
+# Fantasy Travel App
 
-A new Flutter project.
+## Travel Guide" app where user can look at different fantasy maps from other worlds. To get a better close at the world you want to visit click the button in the scroll view
+A great app for planning high fantasy adventures! 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+##Resources 
+Map images are from: https://freefantasymaps.org/category/world/  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
